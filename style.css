@@ -1,0 +1,12 @@
+.heading{
+    font-size: 30px;
+}
+.snapshot{
+    font-size: 30px;
+}
+body{
+    background-image: url("background.jpg");
+}
+canvas{
+    border:5px dashed grey;
+}
